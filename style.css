@@ -1,0 +1,12 @@
+canvas{
+    border-style: groove;
+    border-color:aqua;
+    border-radius: 30px;
+}
+.container{
+
+    padding-top: 500px;
+}
+body{
+    background-image: linear-gradient(to right top, #a7ff8d, #e97aff, #1882c1);
+}
